@@ -1,0 +1,3 @@
+#!/bin/bash
+curl -L -o ~/Downloads/hospital-management-dataset.zip\
+  https://www.kaggle.com/api/v1/datasets/download/kanakbaghel/hospital-management-dataset
